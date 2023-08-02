@@ -1,2 +1,2 @@
-# convert-to-tb
-Converting OLR to tb.
+# convert-olr-tb
+Converting from OLR to brightness temperature
