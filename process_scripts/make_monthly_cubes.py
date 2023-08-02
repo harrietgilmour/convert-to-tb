@@ -13,7 +13,7 @@ import numpy as np
 import iris
 
 # Define the usr directory for the dictionaries
-sys.path.append("/data/users/hgilmour/convert_to_tb")
+sys.path.append("/data/users/hgilmour/convert-to-tb")
 
 # Now you can import the file
 import dictionaries as dic

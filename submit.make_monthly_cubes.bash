@@ -20,10 +20,10 @@ year=$1
 months=(01 02 03 04 05 06 07 08 09 10 11 12)
 
 # Set up the extractor script
-EXTRACTOR="/data/users/hgilmour/convert_to_tb/submit-single-job-test.sh"
+EXTRACTOR="/data/users/hgilmour/convert-to-tb/submit-single-job-test.sh"
 
 # Set up the output directory for the LOTUS job
-OUTPUT_DIR="/data/users/hgilmour/convert_to_tb/lotus_output"
+OUTPUT_DIR="/data/users/hgilmour/convert-to-tb/lotus_output"
 mkdir -p $OUTPUT_DIR
 
 # Activate the conda environment
