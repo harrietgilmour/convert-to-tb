@@ -18,8 +18,6 @@ sys.path.append("/data/users/hgilmour/convert-to-tb")
 # Now you can import the file
 import dictionaries as dic
 
-print("hellow rodls")
-
 # Write a function which will check the number of arguments passed
 def check_no_args(args):
     if len(args) != 3:
@@ -126,4 +124,6 @@ def main():
     # Save the cubes
     save_cubes(olr, year, month)
 
-main()
+# Run the main function
+if __name__ == "__main__":
+    main()
