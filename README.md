@@ -1,2 +1,2 @@
 # convert-olr-tb
-Converting from OLR to brightness temperature
+Converting from daily OLR files to monthly brightness temperature (Tb) files
